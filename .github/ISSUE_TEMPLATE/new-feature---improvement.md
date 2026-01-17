@@ -1,8 +1,7 @@
 ---
 name: New Feature / Improvement
 about: To add new functionality or enhance an existing feature
-title: "A short action-oriented description to immediately convey the essence
-  of the ticket  "
+title: "A short action-oriented description to immediately convey the essence of the ticket"
 labels: ""
 assignees: ""
 ---
@@ -15,6 +14,8 @@ Brief explanation of what needs to be done and why.
 1. Specific, testable outcome 1
 2. Specific, testable outcome 2
 3. Specific, testable outcome 3
+
+<!-- Optional -->
 
 **Technical Details**
 
