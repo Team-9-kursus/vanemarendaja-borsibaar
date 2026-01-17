@@ -1,10 +1,9 @@
 ---
 name: Bug report
 about: Ticket to fix an existing functionality
-title: "[BUG] Describe the issue briefly"
-labels: ''
-assignees: ''
-
+title: "Describe the issue briefly"
+labels: ""
+assignees: ""
 ---
 
 **Describe the bug**
@@ -12,6 +11,7 @@ A clear and concise description of what the bug is.
 
 **To Reproduce**
 Steps to reproduce the behavior:
+
 1. Go to '...'
 2. Click on '....'
 3. Scroll down to '....'
